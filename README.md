@@ -1,1 +1,1 @@
-# STA7722
+# STA7722 Assignment
